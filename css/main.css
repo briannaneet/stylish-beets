@@ -5,3 +5,33 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+html {
+  background-color: #c9b5ab;
+}
+
+h1 {
+  color: #3f1622;
+  font-family: 'PT Sans', sans-serif;
+}
+
+nav {
+  color: #8f2440;
+  font-family: 'PT Sans', sans-serif;
+}
+
+a {
+  color: #8f2440;
+  text-decoration: none;
+  font-weight: bold;
+  font-family: 'PT Sans', sans-serif;
+}
+
+li {
+  text-decoration: none;
+  list-style: none;
+}
+
+h2 {
+  color: #3f1622;
+}
