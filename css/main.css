@@ -29,6 +29,7 @@ figcaption {
 h1 {
   color: #3f1622;
   font-family: 'PT Sans', sans-serif;
+  font-size: 1.5rem;
 }
 
 nav {
@@ -50,9 +51,32 @@ li {
 
 h2 {
   color: #3f1622;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 1.5rem;
 }
 
 blockquote {
   font-size: 1.5rem;
   font-style: italic;
+}
+
+.varieties li {
+  list-style-type: lower-greek;
+}
+
+.nutritional dt {
+  font-weight: bold;
+}
+
+.serving {
+  font-style: italic;
+}
+
+.tags {
+  font-size: 0.8rem;
+  list-style-type: circle;
+}
+
+strong {
+  font-weight: normal;
 }
